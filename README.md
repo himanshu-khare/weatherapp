@@ -6,6 +6,9 @@ Screenshots:
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-07-01 at 01 55 11](https://user-images.githubusercontent.com/40138854/124035601-639a6600-da1a-11eb-988e-79c5e7fc52d4.png)
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-07-01 at 01 55 07](https://user-images.githubusercontent.com/40138854/124035609-64cb9300-da1a-11eb-97e9-99cfd47ecddc.png)
 
+Demo Video - 
+https://drive.google.com/file/d/1VOGVOcVABOIg5qnhxigSK1hRQLHXCCCD/view?usp=sharing
+
 List of all the major libraries/frameworks used:
 1. Alamofire - https://github.com/Alamofire/Alamofire
 2. SwiftJSON -  https://github.com/SwiftyJSON/SwiftyJSON
